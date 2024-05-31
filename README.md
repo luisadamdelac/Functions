@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+        <title>Javascript</title>
+        <script type='text/Javascript' src="cal.js.js"></script>
+        
+
+        <body style="background-color: lightblue;">
+        
+        
+        <div>
+        <p>Put number here!</p>
+        <Label>addition</Label>
+        <input id="add1" type="text" name="input"> 
+        <label>+</label>
+        <input id="add2" type="text" name="input">
+        <label>=</label>
+        <input id="sum" type="text" name="input">
+        <button onclick="addition1()">ADD</button>
+        
+        
+        <br>
+        </div>
+
+        <div>
+        <Label>substraction</Label>
+        <input id="sub1" type="text" name="input">
+        <label>-</label>
+        <input id="sub2" type="text" name="input">
+        <label>=</label>
+        <input id="sum1" type="text" name="input">
+        <button onclick="substraction1()">SUB</button>
+        <br>
+        </div>
+
+        <div>
+        <Label>multiplication</Label>
+        <input id="mul1" type="text" name="input">
+        <label>*</label>
+        <input id="mul2" type="text" name="input">
+        <label>=</label>
+        <input id="sum2" type="text" name="input">
+        <button onclick="multiplication1()">MUL</button>
+        <br>
+        </div>
+
+        <div>
+        <Label>division</Label>
+        <input id="div1" type="text" name="input">
+        <label>/</label>
+        <input id="div2" type="text" name="input">
+        <label>=</label>
+        <input id="sum3" type="text" name="input">
+        <button onclick="division1()">DIV</button>
+        <br>
+        </div>
+        
+        <button><a href="https://luisadamdelac.github.io/Myfavoritecolor/Myfavoritecolor.html"><br></a></button>
+        </body>
+        </html>
+
+
